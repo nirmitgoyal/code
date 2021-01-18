@@ -4,7 +4,7 @@ import java.util.*;
 
 
  */
-public class Scratch {
+public class Solution {
 
     public static int fun() {
         //
