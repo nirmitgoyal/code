@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
+  <configuration default="false" name="Solution" type="Application" factoryName="Application" nameIsGenerated="true" show_console_on_std_out="true">
     <option name="MAIN_CLASS_NAME" value="Solution" />
     <module name="code" />
     <extension name="coverage">
