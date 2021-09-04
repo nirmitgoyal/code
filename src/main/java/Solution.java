@@ -5,7 +5,7 @@
 public class Solution {
 
     public static int fun() {
-        //
+        //base
         return -1;
     }
 
