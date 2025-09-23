@@ -7,6 +7,6 @@ class SolutionTest {
 
     @Test
     void funTest() {
-//        assertEquals(-1, Solution.fun());
+        // assertEquals(-1, Solution.fun());
     }
 }
